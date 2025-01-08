@@ -1,2 +1,0 @@
-# Navbar
-Creating a navbar
